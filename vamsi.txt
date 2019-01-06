@@ -1,3 +1,7 @@
 hi this is my first file
 I have made changes to this file
+<<<<<<< HEAD
 this is for testing merging in the git
+=======
+this is to test the git merge
+>>>>>>> 47f9be85ad0abb59861b022cbe4f899cc6d667cc
