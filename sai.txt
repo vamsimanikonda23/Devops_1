@@ -1,2 +1,6 @@
 fkjfskhfskhfskfhskfhsk
+<<<<<<< HEAD
 fsfsfsfsvx verrwrwrewreewrwerewrwerwe
+=======
+ksfknfksnfkjssiusiuhewiuhwe c ,zcscnwiufweiufeuwi
+>>>>>>> 63da68d2074ac2a8eced8e1c2dcbe424ee8b3b68
